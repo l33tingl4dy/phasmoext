@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PhasmophobiaExt"
+    }
+  },
+  "defaultProject": "PhasmophobiaExt",
+  "cli": {
+    "analytics": false
+  }
 }
