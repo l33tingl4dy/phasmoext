@@ -1,0 +1,16 @@
+export enum Ghosts {
+    BANSHEE = "banshee",
+    DEMON = "demon",
+    HANTU = "hantu",
+    JINN = "jinn",
+    MARE = "mare",
+    ONI = "oni",
+    PHANTOM = "phantom",
+    POLTERGEIST = "poltergeist",
+    REVENANT = "revenant",
+    SHADE = "shade",
+    SPIRIT = "spirit",
+    WRAITH = "wraith",
+    YOKAI = "yokai",
+    YUREI = "yurei",
+}

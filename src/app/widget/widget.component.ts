@@ -6,9 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./widget.component.css']
 })
 export class WidgetComponent implements OnInit {
-
+  
+  public ghostName = "John Anderson";
+  public location = "Willow Street";
+  public difficulty = "Professional";
   constructor() { }
-
   ngOnInit(): void {
   }
 

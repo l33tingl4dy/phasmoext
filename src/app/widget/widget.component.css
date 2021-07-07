@@ -1,0 +1,30 @@
+.widget {
+    line-height: 40px;
+    max-height: 300px;
+    font-size: xx-large;
+    max-width: 100%;
+    display: flex;
+}
+
+.matchInfo {
+    display: inline-flex;
+    max-width: 33%;
+    margin-right: 30px;
+}
+
+.evidenceInfo {
+    margin-right: 30px;
+}
+
+.fas,
+.fa {
+    padding: 10px;
+}
+
+.evidenceIcon {
+    color: grey;
+}
+
+.evidenceFound {
+    color: lightcoral;
+}
